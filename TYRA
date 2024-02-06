@@ -1,0 +1,26 @@
+.vscode
+Update settings for latest VS Code
+media
+Update flutter logo
+src
+Fix lint error
+.eslintrc.js
+Switch from tslint to eslint
+.gitattributes
+gitignore/attributes
+.gitignore
+Sync ignore file with Dart + better changelog link
+.vscodeignore
+Fix vscodeignore file
+CHANGELOG.md
+Sync ignore file with Dart + better changelog link
+LICENSE
+Add basic empty extension
+README.md
+Update readme
+package-lock.json
+Set version to v3.80.0
+package.json
+Set version to v3.80.0
+tsconfig.json
+Switch to TS strict mode
